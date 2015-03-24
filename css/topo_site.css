@@ -1,18 +1,6 @@
-.res_box {
-    border-bottom-style: solid;
-    border-bottom-color: #aaaaaa;
-    border-bottom-width: 1px;
-}
-
-.res {
-    margin-bottom: 40px;
-}
-
-.sticky {
-    position: fixed;
-    top: 0px;
-}
-
-.container {
-    min-width:600px;
+.country {
+  fill: #ccc;
+  stroke: #fff;
+  stroke-width: .5px;
+  stroke-linejoin: round;
 }
